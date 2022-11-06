@@ -152,11 +152,12 @@ mkinitcpio-openswap
 ###                    EXTRAS                       ###
 #######################################################
 
-##### xorg applications
+##### xorg and others applications
 
-#xorg-server
-#xorg-apps
+xorg-server
+xorg-apps
 #neofetch
+chromium
 
 
 ##### Drivers for graphical cards
@@ -199,50 +200,112 @@ xf86-video-intel
 
 ##### want to have linux-headers
 
-#linux-headers
+linux-headers
 
 
 
-##### want to have a desktop
+#######################################################
+###                  KDE Desktop                    ###
+#######################################################
 
-plasma-meta
-kde-applications-meta
-packagekit-qt5
+### Plasma group content Categorized
+### https://archlinux.org/groups/x86_64/plasma/
+
+### Essentials
+
+kwin
 sddm
+milou
+breeze
+kcrash
+drkonqi
+kgamma5
+kscreen
+khotkeys
+sddm-kcm
+kmenuedit
+ksysguard
+bluedevil
+powerdevil
+libkscreen
+kinfocenter
+ksshaskpass
+kdecoration
+kglobalaccel
+libksysguard
+kde-dev-utils
+kscreenlocker
+xdg-user-dirs
+knotifications
+systemsettings
+kde-gtk-config
+packagekit-qt5
+polkit-kde-agent
+kactivitymanagerd
+kdenetwork-filesharing
+xdg-desktop-portal-kde
 
-##### want to add/use the ArcoLinux repos
+### Plasma Stuff
 
-#arcolinux-mirrorlist-git
-#arcolinux-keyring
+plasma-nm
+plasma-pa
+plasma-vault
+plasma-desktop
+plasma-framework
+plasma-workspace
+plasma-integration
+plasma-systemmonitor
+plasma-browser-integration
 
-#test
-#arcolinux-wallpapers-git
+### KDE Applications group content Categorized
+### https://archlinux.org/groups/x86_64/kde-applications/
 
-##### want to add/use the Chaotic repo
+## Utilities
 
-#chaotic-mirrorlist
-#chaotic-keyring
+ark
+kgpg
+kate
+kfind
+kcalc
+dolphin
+kdialog
+konsole
+kalendar
+kmousetool
+ksystemlog
+khelpcenter
+kwallet-pam
+markdownpart
+kwalletmanager
 
-#test
-#xcursor-sweet
+## Networking
 
+kdeconnect
+kio-zeroconf
+kdenetwork-filesharing
+signon-kwallet-extension
 
-##### want to add/use your local repo packages
-##### create your packages and put them in the local repo
+### Graphics
 
-#There is a copy of the local repo in your folder
-#Copy/paste it to your homefolder
-#Change the name erik to your own username
-#update the database
+svgpart
+gwenview
+spectacle
+kcolorchooser
+kdeplasma-addons
+kdegraphics-thumbnailers
 
-#test
-#nemesis-wallpapers
+## KDE-SDK
 
+lokalize
+dolphin-plugins
+kdesdk-thumbnailers
 
-#### want have a btrfs format
-#### use alci-calamares-config-btrfs 
+## Complements
 
-#timeshift
-#grub-btrfs
-#timeshift-autosnap
-git
+yakuake
+kio-gdrive
+xsettingsd
+systemdgenie
+gnome-keyring
+keditbookmarks
+

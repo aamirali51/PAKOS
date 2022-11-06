@@ -27,8 +27,8 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="xfce"
-	lightdmDesktop="xfce"
+	#desktop="xfce"
+	#lightdmDesktop="xfce"
 
 	#arcolinuxVersion='v21.03.1'
 
