@@ -113,7 +113,6 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -157,7 +156,7 @@ mkinitcpio-openswap
 xorg-server
 xorg-apps
 #neofetch
-chromium
+
 
 
 ##### Drivers for graphical cards
@@ -166,7 +165,7 @@ chromium
 #systemctl enable vboxservice
 #systemctl start vboxservice
 #to have fullscreen
-#virtualbox-guest-utils
+virtualbox-guest-utils
 
 xf86-video-intel
 #xf86-video-amdgpu
@@ -196,7 +195,7 @@ xf86-video-intel
 
 ##### want to have base-devel group
 
-#base-devel
+base-devel
 
 ##### want to have linux-headers
 
@@ -261,7 +260,7 @@ plasma-browser-integration
 ### https://archlinux.org/groups/x86_64/kde-applications/
 
 ## Utilities
-
+kde-utilities-meta
 ark
 kgpg
 kate
@@ -277,6 +276,20 @@ khelpcenter
 kwallet-pam
 markdownpart
 kwalletmanager
+bash-completion
+discover
+gnome-software
+gnome-software-packagekit-plugin
+vivaldi
+vivaldi-ffmpeg-codecs
+htop
+neofetch
+sweeper
+gimp
+git
+vlc
+
+
 
 ## Networking
 
@@ -308,4 +321,7 @@ xsettingsd
 systemdgenie
 gnome-keyring
 keditbookmarks
+
+#Others
+cups
 

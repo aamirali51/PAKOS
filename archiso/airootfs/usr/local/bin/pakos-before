@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 echo "#################################"
 echo "Start xerolinux-before"
+pacman -Sy
 echo "#################################"
 
 echo "Populate Core Team keys"
