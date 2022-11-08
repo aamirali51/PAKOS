@@ -127,6 +127,7 @@ zsh
 
 calamares
 PakOs-calamares-config
+calamares-desktop-installation
 
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
