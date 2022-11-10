@@ -124,11 +124,13 @@ zsh
 
 
 
-
+#PakOs repo stuff
 calamares
 PakOs-calamares-config
 calamares-desktop-installation
-
+yay-bin
+latte-dock
+plasma-wayland-protocol
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
