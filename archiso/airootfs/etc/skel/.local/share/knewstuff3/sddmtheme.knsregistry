@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Imagination-SDDM</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1399157</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>9102</downloads>
+  <installedfile>/tmp/Imagination-SDDM.zip</installedfile>
+  <id>1399157</id>
+  <releasedate>2020-07-02</releasedate>
+  <summary>&lt;strong>SDDM Login Theme, customized for the &lt;span style="color: #3f808a;"> &lt;strong>Imagination&lt;/strong> &lt;/span>  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1399167/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1399157/2b94cd029ba3bcd8f6ebfe5cd939c65053921.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1399157/2b94cd029ba3bcd8f6ebfe5cd939c65053921.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM2NzYyNDAiLCJvIjoiMSIsInMiOiJhOTQ1MDg0YzY3MzExNTYzNGU3Y2I0MTM2ODJhNTVjYzg2OTA2ZjA5MmE5MGQ4ZDQ4NjBmOGUwMDU2NmQ0NWM0YjJiN2Y3NTA0NTcyMmQzYmFjZGRkNTE2NzM2Y2RiMGJlYjI1YmUwNzY4NmJlY2Q5OGU1NTg2YWU1MmUxY2IyMCIsInQiOjE2NjkzMjk1ODUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.Wf3Db8Zt2wLrg7_okGPm4TjS7q9rFSWEDRlzPOjcMJI/Imagination-SDDM.zip</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Swish SDDM theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>icaho</author>
+  <homepage>https://store.kde.org/p/1721626</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>58</rating>
+  <downloads>9108</downloads>
+  <installedfile>/tmp/Swish-0.2.zip</installedfile>
+  <id>1721626</id>
+  <releasedate>2022-03-10</releasedate>
+  <summary>My modification of the beautiful Sweet SDDM theme by Eliver Lara, recoloured with modified icons and wallpaper to better suit my setup&lt;br />
+&lt;br />
+All credit to Eliver Lara https://store.kde.org/p/1334945/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/64/91/71/1721626/small2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/64/91/71/1721626/small2.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDY5NDUxNDEiLCJvIjoiMSIsInMiOiIyMzYzMGQ4MDU2NmRhNDI0NjNmMmY5NWJkMjRkOWEzODhlY2IxZGE3ZGQyMTM1MjgzNmRhMjgzNDcxMzMxNDFiOWY3OGFhYzdhOWVmMDEwODA3NTFiNmMyMWE1OTZjMWM5ZmZlOGI4ZTg5MzZkNGI4ZjAwNDliZTE0NTUxNzIyYyIsInQiOjE2NjkzMjk2MDIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.HKMOX4yB_OiRtc4sGRrpEK4Kpds1traSBxBXzpfDFXc/Swish-0.2.zip</payload>
+  <tags>unix,gplv3,linux,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>YaruKde 20.04 login theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1377737</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>58</rating>
+  <downloads>16995</downloads>
+  <installedfile>/tmp/YaruKde.tar.gz</installedfile>
+  <id>1377737</id>
+  <releasedate>2020-04-22</releasedate>
+  <summary>&lt;span style="color: #1E92F7;">&lt;span style="text-decoration: underline;">&lt;strong>Yaru (ubuntu theme) for plasma KDE &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Based on the Yaru colors &lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Plasma, gnome, xfce, cinnamon, lxde, i3 &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Yaru extend icons &lt;/strong>&lt;a href="https://www.pling.com/p/1331947/" target="_blank" rel="nofollow">https://www.pling.com/p/1331947/ &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/icons/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="color: #1E92F7;">&lt;span style="text-decoration: underline;">&lt;strong>Plasma KDE: &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Look and feel&lt;/strong> &lt;a href="https://www.pling.com/p/1331953/" target="_blank" rel="nofollow">https://www.pling.com/p/1331953 &lt;/a>install from systemsettings &amp;gt; look and feel &amp;gt; get new theme &lt;br />
+&lt;br />
++ &lt;strong>Color scheme&lt;/strong> &lt;a href="https://www.pling.com/p/1331948/" target="_blank" rel="nofollow">https://www.pling.com/p/1331948 &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/color-schemes/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
++ &lt;strong>Plasma theme&lt;/strong> &lt;a href="https://www.pling.com/p/1331951/" target="_blank" rel="nofollow">https://www.pling.com/p/1331951 &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/plasma/desktoptheme/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
++ &lt;strong>Aurorae theme&lt;/strong> &lt;a href="https://www.pling.com/p/1331950/" target="_blank" rel="nofollow">https://www.pling.com/p/1331950 &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/aurorae/themes/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
++ &lt;strong>SDDM theme&lt;/strong> &lt;a href="https://www.pling.com/p/1377737/" target="_blank" rel="nofollow">install from https://www.pling.com/p/1377737 &lt;/a>&lt;br />
+&lt;code>&lt;span style="color: #000000">
+SystemSettings&amp;nbsp;-&amp;nbsp;Startup&amp;nbsp;and&amp;nbsp;Shutdown&amp;nbsp;-&amp;nbsp;Get&amp;nbsp;New&amp;nbsp;"Yaru&amp;nbsp;Kde"&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="text-decoration: underline;">&lt;span style="color: #1E92F7;">- Plasmoids for KDE&lt;/span>&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+* Launcher fullscreen &lt;a href="https://www.pling.com/p/1364064/" target="_blank" rel="nofollow">Launchpad plasma &lt;/a>&lt;br />
+* Clock (horizontal and vertical): &lt;a href="https://www.pling.com/p/1324315/" target="_blank" rel="nofollow">Split digital clock&lt;/a>&lt;br />
+* Sounds for focus &lt;a href="https://www.pling.com/p/1362091/" target="_blank" rel="nofollow">Kbeat &lt;/a>&lt;br />
+* Virtual desktops indicator &lt;a href="https://www.pling.com/p/1364071/" target="_blank" rel="nofollow">Simple pager&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="text-decoration: underline;">&lt;span style="color: #1E92F7;"> Icons acknowledgment &lt;/span>&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+Icons based in Yaru and &lt;a href="https://www.gnome-look.org/p/1210408/" target="_blank" rel="nofollow"> Suru++ &lt;/a>, thanks to ubuntu team, /u/magog64 and /u/gusreis1989. &lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+If you enjoy my content, please consider supporting what I do:&lt;br />
+&lt;br />
+&lt;img src="https://raw.githubusercontent.com/adhec/plasmaX/master/coffee.png" alt="coffee" />&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a> and comment.&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1377737/b100e2f4657d059567d82b1bddee2a5f52e1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1377737/b100e2f4657d059567d82b1bddee2a5f52e1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc2MTIyOTgiLCJvIjoiMSIsInMiOiJjZDQ4MzJhNWFiOGQzNTU2ZWUzODQ1N2Y0NmFiMjA2Nzg1YWVhNjYxZGUyZGRkMzlhZjkzNTBjOTk1ODRmMzc5ZjAzOTI0YTUzYTkzNDZkOTllYjg2ZjQ3NGI4ZmJhMjg1MGE2ZWJjMTE3NzcxMTI2MGM4ZDdlMmU2ODEwMzZjZCIsInQiOjE2NjkzMjc0MjIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.xHBZ3y8_5D7wq9QTcaaG19ozU6nhaDgTJU-tFyUrJ14/YaruKde.tar.gz</payload>
+  <tags>linux,original-product,unix,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Kawaiki SDDM Login Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>lion-d-gem-heart</author>
+  <homepage>https://store.kde.org/p/1602837</homepage>
+  <licence></licence>
+  <version>1.6</version>
+  <rating>58</rating>
+  <downloads>1520</downloads>
+  <installedfile>/tmp/plasma-login-kawaiki.zip</installedfile>
+  <id>1602837</id>
+  <releasedate>2021-09-22</releasedate>
+  <summary>Fork of Marian Arlt's "Sugar Candy for SDDM".&lt;br />
+&lt;br />
+Follow the github link to find out how to customize the theme to your liking.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/21/03/96/1602837/e3f39a8007f4fd59fb7b1ea72a777e77d0fa13244ac87598d2bb6681d20b81d70541.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/21/03/96/1602837/e3f39a8007f4fd59fb7b1ea72a777e77d0fa13244ac87598d2bb6681d20b81d70541.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzIzNDgwMjYiLCJvIjoiMSIsInMiOiJlYWNjNGQwYmZiZGMzZGEyY2FlY2RjODZjMjdlZDYzZTU5YWEyNWVhOWJlMmNjMjU0ZWM0ODA5Y2E3ZDQwYTgzMzhlOTE2OTVkMzA0OWQzOTQ4ZmJlY2VjMzg4M2QzZTNiN2NhNjk2Yjc3OGI5MDhkNDZmZDZhMDk1OGNhZTJiNCIsInQiOjE2NjkzMjk2MzQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.X-FQiIg1vua7Bh7FDJkeGfL9rMKjVqeVCH_p-a6ktrQ/plasma-login-kawaiki.zip</payload>
+  <tags>kde,gplv3,efi,login,linux,theme,sddm,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

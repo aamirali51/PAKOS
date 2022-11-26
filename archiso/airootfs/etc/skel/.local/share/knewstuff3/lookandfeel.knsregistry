@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Nordic darker KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1633675</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1256</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/look-and-feel/Nordic-darker</installedfile>
+  <id>1633675</id>
+  <releasedate>2022-11-19</releasedate>
+  <summary>Nordic darker is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1633673v/" target="_blank" rel="nofollow"> Nordic...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1633675/e993b51bc83f33e12484d08c32ba614be041cee39a3f0330d7f5526faa059670435b1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1633675/e993b51bc83f33e12484d08c32ba614be041cee39a3f0330d7f5526faa059670435b1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njg4OTkwMDgiLCJvIjoiMSIsInMiOiJlZjBjMzI2NGVjNDNjZTIyZDVmNDhiZjc0MjIyM2E3Yjk3YTg4NjhjMmI5NDkxNjlmNmZmYmM2ZGJlNWI5ZTdkMzJhOTRhZGUyZGEzNGQ0YjIxMjliMTE5NjNiYTY3ZTdjNmQzYTM0ZWYzY2EzZjAyMjJlOWI2NTZhM2RmZjIwZiIsInQiOjE2NjkyMzc5NjAsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.o1UbAYTheebOJiQfPEtcrXv8VBPD_tLUf6oaWZ2u3S0/Nordic-darker.tar.xz</payload>
+  <tags>plasma,linux,look-and-feel,kde,gplv3,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Nordic KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1327093</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>2159</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/look-and-feel/Nordic</installedfile>
+  <id>1327093</id>
+  <releasedate>2022-11-16</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1327093/99ef6c275c74cc074ce534c3b26d798bb767.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1327093/99ef6c275c74cc074ce534c3b26d798bb767.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njg2MzYxMzkiLCJvIjoiMSIsInMiOiIyODEzY2YzMTA5YzhjMTEwNzVkMjM0ZDU0MTJhMTg1ZmRmZGUxYmQ2ZDY5NmYyOGZkZDBhMDYwZjUxOGEwMjg4YTAwMDcwZDc0ZDMzYWYwMzRkMTAxYWMyY2M4YzRkMjY1ZjRhY2U3NmQyYzhkOGE5YWQ0N2RlNWQ3YmEyYzIxOSIsInQiOjE2NjkyMzc5NjUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.6-Ce_txgeZsYwHPkLE7s7fH-rtpH5LHtLgHg_RgieZU/Nordic.tar.xz</payload>
+  <tags>gplv3,kde,linux,look-and-feel,unix,theme,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

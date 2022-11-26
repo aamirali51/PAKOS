@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Yaru extended icon theme 20.04</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1331947</homepage>
+  <licence></licence>
+  <version>20.04</version>
+  <rating>75</rating>
+  <downloads>57000</downloads>
+  <installedfile>/home/aamir/.local/share/icons/YaruExtDarkPurple/*</installedfile>
+  <id>1331947</id>
+  <releasedate>2020-05-12</releasedate>
+  <summary>&lt;span style="color: #1E92F7;">&lt;span style="text-decoration: underline;">&lt;strong>Yaru (ubuntu theme) for plasma KDE &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Based on the Yaru colors &lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Plasma, gnome, xfce, cinnamon, lxde, i3 &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Yaru extend icons &lt;/strong>&lt;a href="https://www.pling.com/p/1331947/" target="_blank" rel="nofollow">https://www.pling.com/p/1331947/ &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/icons/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="color: #1E92F7;">&lt;span style="text-decoration: underline;">&lt;strong>Plasma KDE: &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Look and feel&lt;/strong> &lt;a href="https://www.pling.com/p/1331953/" target="_blank" rel="nofollow">https://www.pling.com/p/1331953 &lt;/a>install from systemsettings &amp;gt; look and feel &amp;gt; get new theme &lt;br />
+&lt;br />
++ &lt;strong>Color scheme&lt;/strong> &lt;a href="https://www.pling.com/p/1331948/" target="_blank" rel="nofollow">https://www.pling.com/p/1331948 &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/color-schemes/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
++ &lt;strong>Plasma theme&lt;/strong> &lt;a href="https://www.pling.com/p/1331951/" target="_blank" rel="nofollow">https://www.pling.com/p/1331951 &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/plasma/desktoptheme/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
++ &lt;strong>Aurorae theme&lt;/strong> &lt;a href="https://www.pling.com/p/1331950/" target="_blank" rel="nofollow">https://www.pling.com/p/1331950 &lt;/a>extract the content in&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/aurorae/themes/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
++ &lt;strong>SDDM theme&lt;/strong> &lt;a href="https://www.pling.com/p/1377737/" target="_blank" rel="nofollow">install from https://www.pling.com/p/1377737 &lt;/a>&lt;br />
+&lt;code>&lt;span style="color: #000000">
+SystemSettings&amp;nbsp;-&amp;nbsp;Startup&amp;nbsp;and&amp;nbsp;Shutdown&amp;nbsp;-&amp;nbsp;Get&amp;nbsp;New&amp;nbsp;"Yaru&amp;nbsp;Kde"&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="text-decoration: underline;">&lt;span style="color: #1E92F7;">- Plasmoids for KDE&lt;/span>&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+* Launcher fullscreen &lt;a href="https://www.pling.com/p/1364064/" target="_blank" rel="nofollow">Launchpad plasma &lt;/a>&lt;br />
+* Clock (horizontal and vertical): &lt;a href="https://www.pling.com/p/1324315/" target="_blank" rel="nofollow">Split digital clock&lt;/a>&lt;br />
+* Sounds for focus &lt;a href="https://www.pling.com/p/1362091/" target="_blank" rel="nofollow">Kbeat &lt;/a>&lt;br />
+* Virtual desktops indicator &lt;a href="https://www.pling.com/p/1364071/" target="_blank" rel="nofollow">Simple pager&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="text-decoration: underline;">&lt;span style="color: #1E92F7;"> Icons acknowledgment &lt;/span>&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+Icons based in Yaru and modification of all icons from  &lt;a href="https://www.gnome-look.org/p/1210408/" target="_blank" rel="nofollow"> Suru++ &lt;/a>, thanks to ubuntu team, /u/magog64 and /u/gusreis1989. &lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+If you enjoy my content, please consider supporting what I do:&lt;br />
+&lt;br />
+&lt;img src="https://raw.githubusercontent.com/adhec/plasmaX/master/coffee.png" alt="coffee" />&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a> and comment.&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1331947/a1441b07732fd8745adccbfe7e7a2758fada.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1331947/a1441b07732fd8745adccbfe7e7a2758fada.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODkzMjEwNTQiLCJvIjoiMSIsInMiOiIwM2QyNjgzM2EzMDU2MmJjNTQ1M2RlNDYzMzJkODcwMmIxYjNiYjIyZGU3YWU1MmUzNmQ3ODQxNjAzNWY5MTUxNDNjYzAxMWQ0Y2FjZjNhZDNhYjhmODk5MDQ0YTBhNmRkMGJmMDU2MmMwZDkwN2ZiZTZhMWY1NTA0YmUyMjU5MCIsInQiOjE2NjkzMjczMDksInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.jXxtchcnyAl9TQsZtG1fzlIvnp5t2iKLtbBzBoAAyZ0/YaruExtDarkPurple.tar.gz</payload>
+  <tags>gplv3,modification-product,linux,icon,icon-theme,theme,ubuntu,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Reversal icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1340791</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>3248</downloads>
+  <installedfile>/home/aamir/.local/share/icons/Reversal-green-dark/*</installedfile>
+  <installedfile>/home/aamir/.local/share/icons/Reversal-green/*</installedfile>
+  <id>1340791</id>
+  <releasedate>2022-11-16</releasedate>
+  <summary>&lt;strong>Reversal Icon Theme&lt;/strong>&lt;br />
+A colorful Design Rectangle icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+You can now select the Download folder color&lt;br />
+------------------------------&lt;br />
+Github:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1340791/f6c46f46c846d60723497034b517b17d80a9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1340791/f6c46f46c846d60723497034b517b17d80a9.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njg2MjU1MDgiLCJvIjoiMSIsInMiOiJmMTUwZDE1ZmZlMDcwYzc5M2QwZjcwNmUzNDYyZDI5OWE4MDJhMmU0MDMwNTE0YzhlZDJlOTBkOTUzOTc1MGIwM2ZmYjkyYmJiOGIyMzEyODQ2MjI4OGQ5MTY0ZjcwYzRiMDU2NjhmNDE5YTZmYmMyNTlkYzk5ZWNlNDY2MTllYiIsInQiOjE2NjkyOTc5MDQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ.f27EERqdTVIdzYT0y7LoBlXeqxkKV6mX6TFfi4jPOCs/Reversal-green.tar.xz</payload>
+  <tags>gplv3,linux,icon-theme,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Ubuntosh-Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>umayanga</author>
+  <homepage>https://store.kde.org/p/1333142</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>64</rating>
+  <downloads>3413</downloads>
+  <installedfile>/home/aamir/.local/share/icons/Ubuntosh-Icons/*</installedfile>
+  <id>1333142</id>
+  <releasedate>2021-03-30</releasedate>
+  <summary>Yaru theme with light blue folder icons and macOS like file manager icon xD&lt;br />
+Created just for fun. Because I really love the default theme on Ubuntu (Yaru).&lt;br />
+&lt;br />
+Based on &lt;a href="https://github.com/ubuntu/yaru" target="_blank" rel="nofollow">Ubuntu community theme "Yaru" &lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/48/22/1333142/aba245a2dc7b94d833fc6236e3e56ae6a407.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/48/22/1333142/aba245a2dc7b94d833fc6236e3e56ae6a407.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTcwODk2MjciLCJvIjoiMSIsInMiOiI0NGFmNjEwYmI3ZjFlOGRjMDY5NmQ1YmM0ZWFjMzVkMzk2NzdiZGNiMmNmMGFkNTUwMzhhOWMyMzI4MGU1MzI5YmFlODJlYjNiYjdlOGEwNDVmZjhiZWEwMTA5ZmQxMjgzMDQ2YzNiMGMyMWYzMWIwOWQ0ZDZlMWE2NDJkYzYzYiIsInQiOjE2NjkzMjY4MDUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.8A4mpMbUPFz5Hcy1t-ftsrr9MAfCMm_Q3r3BReIxR5I/Ubuntosh-Icons.tar.xz</payload>
+  <tags>linux,macintosh,macos,icon-theme,unix,ubuntu,yaru,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

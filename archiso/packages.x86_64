@@ -128,9 +128,8 @@ zsh
 calamares
 PakOs-calamares-config
 calamares-desktop-installation
-yay-bin
-latte-dock
-plasma-wayland-protocol
+#latte-dock
+#plasma-wayland-protocol
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
@@ -171,8 +170,8 @@ xorg-apps
 virtualbox-guest-utils
 
 xf86-video-intel
-#xf86-video-amdgpu
-#xf86-video-nouveau
+xf86-video-amdgpu
+xf86-video-nouveau
 
 #nvidia
 #nvidia-settings
@@ -188,7 +187,7 @@ xf86-video-intel
 ##### sddm display manager
 
 #sddm
-#alci-sddm-plasma-archpaint
+
 
 ##### gdm display manager
 
@@ -283,14 +282,7 @@ bash-completion
 discover
 gnome-software
 gnome-software-packagekit-plugin
-vivaldi
-vivaldi-ffmpeg-codecs
-htop
-neofetch
-sweeper
-gimp
-git
-vlc
+
 
 
 
@@ -327,4 +319,20 @@ keditbookmarks
 
 #Others
 cups
-
+#kvantum
+ulauncher
+yay
+pamac
+lightly-git
+chromium
+#stremio
+#vivaldi
+#vivaldi-ffmpeg-codecs
+htop
+neofetch
+sweeper
+git
+vlc
+conky
+plank
+meld

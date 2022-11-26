@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="105">
+  <name>Window Title Applet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1274218</homepage>
+  <licence></licence>
+  <version>0.7.1</version>
+  <rating>88</rating>
+  <downloads>115173</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.windowtitle</installedfile>
+  <id>1274218</id>
+  <releasedate>2022-09-24</releasedate>
+  <summary>This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;br />
+You can install this applet directly from Plasma 5 Widgets Explorer</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQwMDMyNDIiLCJvIjoiMSIsInMiOiI1YjFjZDJjMjU5NmQzMzc1NDRmZGNlNjJhYWE4ZTEwMGVkNzkxMzMyYTczZDM4MDU3MzA0YjJkZjlkYjAxZDM0ZWQ3ZmY2OTU4ODllZjRkOGE3MmU2YmI0NTNhNTI0ZWU1ZWIzMjE1Zjg0NDFjN2NlNGQ3YzI4NDhlMGNkMTkwZiIsInQiOjE2NjkyOTQ5NTcsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.IJkvAYUfT3Jf_IaEx7RSCKNTjdYXmo5BZtUIRlktS6s/applet-window-title-0.7.1.plasmoid</payload>
+  <tags>gplv2,extension,kde,linux,widget,window,panel,plasma,original-product,plasma##majorversion=5,title,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="420">
+  <name>mediacontroller_plus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>ismail0f</author>
+  <homepage>https://store.kde.org/p/1317639</homepage>
+  <licence></licence>
+  <version>0.3.1</version>
+  <rating>86</rating>
+  <downloads>27349</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.plasma.mediacontroller_plus</installedfile>
+  <id>1317639</id>
+  <releasedate>2021-08-28</releasedate>
+  <summary>This is a modified version of the offical mediacontroller plasma5 widget.&lt;br />
+&lt;br />
+Add your media controller to your plasma panel or latte dock, and configure it to your liking, by enabling or disabling album artwork, track information, playback controls and playback progress bar.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/80/1317639/83041c2f39e2305f73a134442be2a329dfbb4d60b2a3d50adb77f1f3a2d5ae9c1043.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/80/1317639/83041c2f39e2305f73a134442be2a329dfbb4d60b2a3d50adb77f1f3a2d5ae9c1043.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzAxNjYzNzQiLCJvIjoiMSIsInMiOiIyMDFjMjc2YWVjYzIxMmIzM2VkMDEwYzAwNzI5NmUyYWNlYmFiYTUzNGJhMDUzYTllYmY3YzlhOWIyYTU1MGUxNGUwNjYwNTE0ZTc3MDJmOWU1YzFiMGVlNDQxMzlkMDRlN2RmNjYzYzE0ZTBlYjI5OWYzZGU4OGFmNTcyMjcxNSIsInQiOjE2NjkyOTYxNTMsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.YQ9wwFfjktxTgOolnJTKSeGnjA9bEoJmU4rnymBCuf4/MediaController+_0.3.1.plasmoid</payload>
+  <tags>mpris,multimedia,plasma,panel,linux,gplv2-later,extension,efi,kde,widget,unix,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>OSXLaunchpad</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>hachikoha</author>
+  <homepage>https://store.kde.org/p/1677095</homepage>
+  <licence></licence>
+  <version>0.31</version>
+  <rating>58</rating>
+  <downloads>16624</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/OSXLaunchpad</installedfile>
+  <id>1677095</id>
+  <releasedate>2022-01-22</releasedate>
+  <summary>This menu is a fork of Plasma Launchpad. I made the following changes:&lt;br />
+- Removed the rounded corners&lt;br />
+- Removed the influence of the theme on the menu (only the font is changed)&lt;br />
+- Changed the design of the "Search" field&lt;br />
+- Added animation when flipping (animation speed can...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/64/29/28/1677095/22222222222222.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/64/29/28/1677095/22222222222222.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDI4ODkzNTciLCJvIjoiMSIsInMiOiJmZmJkNjkzNTdiOGMwM2ZmOThjNzhjOGQ4M2NjYjNkYjlkZWU0NDY4MjA3NGVkY2Q0M2YzYjlmYTU1MTVlYTRiM2U0YjdjNWUzNTMwNWNhMjQ1MmM4YzIzMzRkZDhkYjJiYTNkZDA2Mzk2ZjI4MTUzYjc2YjMwNmI2ZjYyYWJlMCIsInQiOjE2NjkyOTUyMTUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.kGoEFV1zs0RbGGiuj3cg2jCYf-2ceZDy9zsmMIRqNl4/OSXLaunchpad.tar.gz</payload>
+  <tags>widget,bigsur,efi,extension,menu,linux,monterey,macos,launchpad,kde,gplv2-later,plasma,plasma##majorversion=5,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="425">
+  <name>Big Sur - Inline Battery</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>fkorpsvart</author>
+  <homepage>https://store.kde.org/p/1402942</homepage>
+  <licence></licence>
+  <version>3.0</version>
+  <rating>76</rating>
+  <downloads>60798</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.plasma.bigSur-inlineBattery</installedfile>
+  <id>1402942</id>
+  <releasedate>2020-08-02</releasedate>
+  <summary>&lt;strong>mcOS BS Inline Battery&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>&lt;em>This is a fork of Kelvin Zhang's original Mac OSX Inline Battery.&lt;/em>&lt;/strong>&lt;br />
+&lt;br />
+Subtle changes that makes a big difference. I have made small modifications to make the battery icon look like the new macOS Big Sur, with...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/50/03/00/1402942/6736dd6a8082fabb9eca0aa8ef2f6f891e081f70fc97a8f02065d67755e33bf138fc.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/50/03/00/1402942/6736dd6a8082fabb9eca0aa8ef2f6f891e081f70fc97a8f02065d67755e33bf138fc.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTYzOTc0ODIiLCJvIjoiMSIsInMiOiIyMmYzMGUxYzQyOWUzY2FlOWUyOGE2NGI2ZDZmOGE4MWQ3NDc1OTIxOWUxMDU2MjI2ZDJiZTQ4NWQ4MmNjMTAyZjFhMzQxZDVhZjIwNzRkMDY1ZmU2MzU1ZTY3NjMxMWE0YzM4ZmJjNDQwMDk1NmVkNTFlNDM3NzI2NzAwNTE3NyIsInQiOjE2NjkyOTYwNzUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.BOJPEAzEVSKUHvExpcFuzF0Jbwe0fkkdi4aDmNa47Dk/org.kde.plasma.bigSur-inlineBattery.tar.gz</payload>
+  <tags>plasma##majorversion=5,unix,plasma,cc-by-sa,big,big-sur,monitoring,linux,macos,latte-dock,extension,kde,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Control Centre</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>prayagjain</author>
+  <homepage>https://store.kde.org/p/1916655</homepage>
+  <licence></licence>
+  <version>0.1.0</version>
+  <rating>76</rating>
+  <downloads>10107</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/com.github.prayag2.controlcentre</installedfile>
+  <id>1916655</id>
+  <releasedate>2022-10-17</releasedate>
+  <summary>NOTE&lt;br />
+This is a beta release. Please expect some bugs!&lt;br />
+&lt;br />
+If you like my work, then please consider supporting me!&lt;br />
+Paypal Address: prayagjain2@gmail.com&lt;br />
+Ko-Fi: https://ko-fi.com/prayagjain&lt;br />
+Liberapay: https://liberapay.com/Prayag/donate&lt;br />
+&lt;br />
+This is a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/60/43/39/1916655/logo1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/60/43/39/1916655/logo1.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjU5OTA5NzgiLCJvIjoiMSIsInMiOiIzNGUxNTMyYzEzYTZiNjBmNDNjMDlkYzQwZWYxMDk5ZWExMmNhMzliYWM0NWI5Y2QwYzhhNDFmMWI1Mzc0MjVkNzM0YTNmNDMyZjNmMjg3OWFmYWUzOThhY2RjMjU0NGNiYzMzM2M3OTBiZDEyZTYxZTk1MGU4ODQ2NWFlOWI1MCIsInQiOjE2NjkyOTI5MjMsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ni4yMjMifQ.sNMXlm1xI8iINUPVa41U6JWkr0Fai25-AKaqMST60aU/kde-controlcentre0.1.0.tar.gz</payload>
+  <tags>widget,original-product,unix,plasma,plasma##majorversion=5,gplv3,center,centre,control,extension,linux,mac,macos,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="463">
+  <name>Event Calendar</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Zren</author>
+  <homepage>https://store.kde.org/p/998901</homepage>
+  <licence></licence>
+  <version>76</version>
+  <rating>90</rating>
+  <downloads>30424</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.plasma.eventcalendar</installedfile>
+  <id>998901</id>
+  <releasedate>2022-05-03</releasedate>
+  <summary>&lt;strong>Note: The widget's Google Calendar Sync is disabled v70 and below. Please update to v71.&lt;/strong>&lt;br />
+&lt;a href="https://github.com/Zren/plasma-applet-eventcalendar/issues/177" target="_blank" rel="nofollow">https://github.com/Zren/plasma-applet-eventcalendar/issues/177&lt;/a>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/39/56/998901/687cb198fde24cf7a0066443903d69a89325.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/39/56/998901/687cb198fde24cf7a0066443903d69a89325.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTE1ODkwMDEiLCJvIjoiMSIsInMiOiI3MjkxYWJkZmY5MWI1MjRmNjkwNGMxODkwYTg4ZDRhMmFiOGZkNTRjMDZlZjY3YzE4N2MwZTI5ZTU5ZTU0Y2U2YWNhOGIyOWE1ODYxNzcyYzY2ZjE4OTAxMmEwMWIzMGVjNTEyYWU4ODc3YWI5NDA4OTdjYTFiMDg4YmNlMWU2ZCIsInQiOjE2NjkyOTYxMjIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.8qAumlxoxJdU4ZGjte-S4jXOn89g1t_RfmEsiHtEOI0/eventcalendar-v76-plasma5.13.plasmoid</payload>
+  <tags>plasma,widget,unix,plasma##majorversion=5,calendar,linux,gplv2-later,kde,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Latte Separator</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1295376</homepage>
+  <licence></licence>
+  <version>0.1.2</version>
+  <rating>78</rating>
+  <downloads>8411</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.latte.separator</installedfile>
+  <id>1295376</id>
+  <releasedate>2022-09-24</releasedate>
+  <summary>Plasma 5 applet that acts as a separator between applets. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;strong>Features:&lt;/strong>&lt;br />
+ * option for thickness margins&lt;br />
+ * option for length margins</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1295376/1c26dcae9451538080281b82912d56c000ae.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1295376/1c26dcae9451538080281b82912d56c000ae.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQwMDQyODQiLCJvIjoiMSIsInMiOiI3OGQ3N2FjM2QwNmQ1ZTdlNWM2N2I1MmJmMWU3OWIwM2Y3YjVkOWU3MjU0OGI1ODIxZDRiM2E4NzBmMDZiODkzMDc2NTk0ZjEyYzViOTQ2ODJjNWZiMzg3MTA0ZGQ5NzA1OThmMTNkYTA2ZWY1YWFmMmM1ZGNlNzI2OWJjYzQwOCIsInQiOjE2NjkyOTYwMzEsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.9TFF7lwhRTwGqBTRo0XY5o_nU2RjExBLetyg6pu7lqs/applet-latte-separator-0.1.2.plasmoid</payload>
+  <tags>kde,extension,gplv2-later,linux,widget,unix,separator,plasma##majorversion=5,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Kpple Menu</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rborgniet</author>
+  <homepage>https://store.kde.org/p/1384156</homepage>
+  <licence></licence>
+  <version>1.4</version>
+  <rating>75</rating>
+  <downloads>37432</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kpple.kppleMenu</installedfile>
+  <id>1384156</id>
+  <releasedate>2021-11-14</releasedate>
+  <summary>The Kpple menu is a drop-down menu of Kpple OS, similar to the Apple's menu.&lt;br />
+&lt;br />
+NOTE: Kpple Menu requires Plasma version 5.9 or higher and KDE Frameworks version 5.34 or higher.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/57/28/08/1384156/e4cfab5c747f234d2513f07bd233e41f0b131.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/57/28/08/1384156/e4cfab5c747f234d2513f07bd233e41f0b131.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY5Mjk1MDUiLCJvIjoiMSIsInMiOiIzNjMyOTZiY2UzOWJlNjAzYzk3MzY4ZjEwMzVmMGRhYzQ5MDIwZDU4N2RhZDBlYjZhMTQ5Mjg0MWI2MjA1NTAwNzczNDUxYTllMGFmYjRjOWJjMmMxMTdjZTViNTBlYTBlZDU4ZmM1NTFiMTljMjhjNzU1Zjk4YmIzZmJiOTI1YiIsInQiOjE2NjkyOTQ5MDMsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.ng06SH8oNr2oMZ01gmtFGD57sG4iknrGLXHc5hZQVuM/org.kpple.kppleMenu.tar.gz</payload>
+  <tags>linux,menu,kde,kpple,extension,lgplv2,plasma,unix,plasma##majorversion=5,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="399">
+  <name>Better inline clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>marianarlt</author>
+  <homepage>https://store.kde.org/p/1245902</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>82</rating>
+  <downloads>229225</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.plasma.betterinlineclock</installedfile>
+  <id>1245902</id>
+  <releasedate>2020-06-23</releasedate>
+  <summary>The hottest clock around!&lt;br />
+· Formats not found in any other clock, including custom!&lt;br />
+· Disable the separator with a simple check box!&lt;br />
+· Option for manual font size!&lt;br />
+· Correctly calculated width at any time and date!&lt;br />
+· Manual spacing and offsetting!&lt;br />
+·...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5NjY2NTUiLCJvIjoiMSIsInMiOiI5NTgwMWM3MjhmNmM5NWUzMTcxODVjZmViZDE2ZTg3MjQzZDY1ZGVhYTRjYWJhNzRjODY3ZWI3N2RiMmI4Zjk5MTE1YzkzN2ViYzMxY2YwNGM5OGNiYzc5YzRjYjE2OTEwY2Q5NzIyYWJiMTA2OWY3MjkyZDE2OGIxOTBiZjY3MiIsInQiOjE2NjkzMDc0MDUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ.65qA5Z3kTjfCSpA_wcbIRO_8DP4RVT2H4_8QjuI2RiQ/betterinlineclock.tar.gz</payload>
+  <tags>plasma,widget,plasma##majorversion=5,plasmoid,unix,kde,extension,gplv3,clock,linux,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Latte SideBar Button</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1365044</homepage>
+  <licence></licence>
+  <version>0.2.1</version>
+  <rating>78</rating>
+  <downloads>129757</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.latte.sidebarbutton</installedfile>
+  <id>1365044</id>
+  <releasedate>2021-10-27</releasedate>
+  <summary>This is a Plasma 5 applet that shows and hides OnDemand Latte SideBars.&lt;br />
+&lt;br />
+Reguires:&lt;br />
+ -  Latte &amp;gt;= 0.10&lt;br />
+ -  Plasma &amp;gt;= 5.12&lt;br />
+&lt;br />
+for version 0.2.0 you need Latte Git version that is released after 04/05/2021</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1365044/236feb7f1aebb852d2a6aaf8984c836416fc.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1365044/236feb7f1aebb852d2a6aaf8984c836416fc.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzUzNTI1NDIiLCJvIjoiMSIsInMiOiIwZjQyYzI5NGZjMDgwNjBkZmI0ZGFhMGYxNjhmMTY5NDBkOTYyMmJjZDZkOTNmYTk4ODQxNzA1NDE0YmUwNWY1MTNjY2Q2ZjI2MjRlZDc5YzEwZDA2MDU5NWM3OTg2ZjdjNDdlODk1YmNmOGQ2ZGU2M2YyNjU3M2I2OWJhYjM4OSIsInQiOjE2NjkyOTYwNTUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.N7uybhd7Rlswwa6dRbw025Pmcm9SNe-yplUQwrLocWc/applet-latte-sidebar-button-0.2.1.plasmoid</payload>
+  <tags>ondemand,plasma,original-product,widget,sidebar,plasma##majorversion=5,unix,linux,latte,gplv2-later,extension,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="399">
+  <name>Split Digital Clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1324315</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>66</rating>
+  <downloads>116476</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.plasma.splitdigitalclock</installedfile>
+  <id>1324315</id>
+  <releasedate>2020-06-28</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Split Digital Clock&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Features: &lt;br />
+* Vertical panel and desktop&lt;br />
+ - Split format 12/24 format&lt;br />
+* Horizontal panel, one line format&lt;br />
+&lt;span style="color: #ff5500;">Easy-adjust for height percentage of panel&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Installation &lt;/strong>&lt;/span>&lt;br />
+Run the code:   &lt;code>&lt;span style="color: #000000">
+plasmapkg2&amp;nbsp;--install&amp;nbsp;org.kde.plasma.splitdigitalclock.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Upgrade&lt;/strong>&lt;/span>&lt;br />
+Run the code:   &lt;code>&lt;span style="color: #000000">
+plasmapkg2&amp;nbsp;--upgrade&amp;nbsp;org.kde.plasma.splitdigitalclock.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;br />
+More:&lt;br />
+* Launcher: &lt;a href="https://www.pling.com/p/1324206/" target="_blank" rel="nofollow"> NavDexie menu&lt;/a>&lt;br />
+* Icons: &lt;a href="https://www.pling.com/p/1324180/" target="_blank" rel="nofollow"> Dexie icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Thanks for all the support. If you like my work &lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a>&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1324315/4b1ab075de636fe2704c9e031691e2207f0c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1324315/4b1ab075de636fe2704c9e031691e2207f0c1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTMzMjE3MjYiLCJvIjoiMSIsInMiOiI4NWU2OGFlMTNhZDAyOTZmOTA2MTRkNmIwYzY3YTJjY2FmMGIyMjYxZjU4MTIzNmY2MTIyYzRiMzI0N2VkNzg5MTIyOTIyOGU0YzAxNTgwYWQ1N2EwZjBjNjlhNzA2YzRjNzE2N2E5NWFiNzRlZjJhMDZiM2VhNmQ0YjU3NmRhYSIsInQiOjE2NjkzMjczNDYsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.wqtWJC15Loc4CdyhnJVCSnC_pupbGVaG8iW5RVgZJto/org.kde.plasma.splitdigitalclock.tar.gz</payload>
+  <tags>widget,clock,linux,kde,gplv3,extension,unix,plasma##majorversion=5,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Launchpad Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1364064</homepage>
+  <licence></licence>
+  <version>0.34</version>
+  <rating>81</rating>
+  <downloads>36780</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/launchpadPlasmaDark</installedfile>
+  <id>1364064</id>
+  <releasedate>2022-02-25</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Launchpad applications menu for plasma.&lt;/strong>&lt;/span> &lt;br />
+&lt;br />
+Full-screen menu grid of icons.&lt;br />
+&lt;br />
+&lt;strong>Based on &lt;/strong>&lt;br />
++ DashBoard Menu &lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1364064/logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1364064/logo.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDU4MDU1NTEiLCJvIjoiMSIsInMiOiI3ODFmYzEzMzcwYjdhZDhjN2ViNjc1NGQzMjJlNjA1OTBlZDNkNzg5MDVjODlhNTJjZjA4MzY5OWEzMWIyZWRhMzUyNzZhNDYxMWRjOTZlYTM0MzE0NzQ4NjQzZjNlZjZmMTcxNjBjYTFlM2E1ZDgyMmQ4YjBkNjE0YjNjNmE4YSIsInQiOjE2NjkyOTUyMzcsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.DUgi5cpezF7r2TxPnksMa5zw4XFC9lhhY70tXKiBb6Q/launchpadPlasmaDark.tar.gz</payload>
+  <tags>linux,menu,extension,fullscreen,gplv3,kde,plasma,original-product,plasma##majorversion=5,unix,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Application title</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>kinta</author>
+  <homepage>https://store.kde.org/p/1199712</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>82</rating>
+  <downloads>512796</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.communia.apptitle</installedfile>
+  <id>1199712</id>
+  <releasedate>2022-09-03</releasedate>
+  <summary>This plasmoid adds the focused application title (and icon). &lt;br />
+Plasmoid with some ideas from activewindowcontrol by Martin Kotelnik, but simplified and changed as this one just adds the window title and the icon.&lt;br />
+&lt;br />
+While i have no time to recover automatic deployment via gitlab...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/12/43/59/1199712/d2af20383fed03aaa5b49fcac588c543e2661.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/12/43/59/1199712/d2af20383fed03aaa5b49fcac588c543e2661.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjIxODczNzgiLCJvIjoiMSIsInMiOiIyMGE0MTQ2ZmJiNmE2YmNhZjZiMjljYzZhZDVlOTBjZGZhYzEyZWM2MWI5YjM1ODE0OGQzMGU0MGY5MTBmNGFkMWQ5YzM0MDRiZmM1NmNiYmZjMjRkNTNiMWU1NWFhZGFhODFiZjMxZTEzOTNmZmI3NzY0ODA4NmMyMTZlOWIwMyIsInQiOjE2NjkyOTU5NjgsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.6FIvbD5TkyVzFJiKApMMbdAg3RfQkbRui0eDsc2zWkM/org.communia.apptitle-v1.1.org.communia.apptitle.plasmoid</payload>
+  <tags>plasma##majorversion=5,unix,plasma,widget,kde,extension,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Latte Spacer</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1287102</homepage>
+  <licence></licence>
+  <version>0.3.0</version>
+  <rating>71</rating>
+  <downloads>182358</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.latte.spacer</installedfile>
+  <id>1287102</id>
+  <releasedate>2019-07-12</releasedate>
+  <summary>Plasma 5 applet that acts as a spacer between applets. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;strong>Features:&lt;/strong>&lt;br />
+&lt;br />
+* Length option can support three different modes:&lt;br />
+  -- based on pixels&lt;br />
+  -- based on panel...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1287102/71d70d2f650c2b761810c7301ac73f363ba8.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1287102/71d70d2f650c2b761810c7301ac73f363ba8.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjI5NjM5OTgiLCJvIjoiMSIsInMiOiI2ZTFkNjUxNGVjYTExZTUzMjg5NDcxMThiZTIxNjRkNTAxZDcyZWJiNzhhNWZhZjhhYWJmNmI5Y2MwNTdkMjhlMjY2YmVlN2E3YjRmODhhZjkwYzI1ZTI2MTYwNjY0MDIzNmIyN2FkZjJlZTQ1YzljYThhNTA1NDM4NWZjZjc2YSIsInQiOjE2NjkyOTYwMzQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.xOD4Hz-iVmEF1vplAfl8C9HzIYCWK9IFFb04E7nURxM/applet-latte-spacer-0.3.0.plasmoid</payload>
+  <tags>original-product,plasma,widget,linux,latter,extension,gplv2-later,kde,plasma##majorversion=5,unix,spacer</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="425">
+  <name>Netspeed Widget</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>HessiJames</author>
+  <homepage>https://store.kde.org/p/998895</homepage>
+  <licence></licence>
+  <version>1.9</version>
+  <rating>82</rating>
+  <downloads>192103</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/plasmoids/org.kde.netspeedWidget</installedfile>
+  <id>998895</id>
+  <releasedate>2020-09-03</releasedate>
+  <summary>Plasma 5 widget that displays the currently used network bandwidth.&lt;br />
+&lt;br />
+The appearance can be customized in the configuration dialog and a user defined application (eg. nethogs) can be launched when the applet is clicked.&lt;br />
+&lt;br />
+Required dependencies:&lt;br />
+&lt;br />
+ - ksysguard...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/03/18/67/998895/19851d283f6d53dde8f2cb213a09d1adb805.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/03/18/67/998895/19851d283f6d53dde8f2cb213a09d1adb805.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTkxNTk5NzMiLCJvIjoiMSIsInMiOiJiZTFmYTYzMjRjOWYyOWNkNDU5NGM0N2UzNjI4MDk3NGJkYTcyNTVhNGYyYzFmOTVhYjI3OTY2MDVkYTUwNzNhN2FhMDE2ZjI1OGZlNTFlZjRmOGM0N2Q4OTZmNGE0NTlmNDY5MzFmM2M4M2YwZjYxZDk0MTZhODY5NGUyNWZiOCIsInQiOjE2NjkyOTYxMDcsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.9PnKRmz5eq4zzimuY0z8I_BiavoG7YT7xVckbkcAhJg/netspeed-widget-1.9.plasmoid</payload>
+  <tags>network,plasma,original-product,widget,unix,plasma##majorversion=5,gplv2-later,kde,linux,extension,monitor,monitoring</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

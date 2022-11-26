@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="417">
+  <name>BlueSky Latte Layout</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>lsteam</author>
+  <homepage>https://store.kde.org/p/1559457</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>57</rating>
+  <downloads>14445</downloads>
+  <installedfile>/home/aamir/.local/share/latte-layouts/bluesky.layout.latte</installedfile>
+  <id>1559457</id>
+  <releasedate>2021-07-18</releasedate>
+  <summary>Latte Layout with 2 floating docks and 1 panel. Top panel integrated with kpple menu, application title global menu. Sidebar with notification, system resource and mediaplayer, bootom dock include launchpad menu and folder view.&lt;br />
+&lt;br />
+Widget Requirements:&lt;br />
+    • Kpple Menu&lt;br />
+  ...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/57/93/50/1559457/50695a3510f991252f3091930d5db0672ce47c4e99e648ace7e6153ae9af3a2951be.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/57/93/50/1559457/50695a3510f991252f3091930d5db0672ce47c4e99e648ace7e6153ae9af3a2951be.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjY1OTQ1NjEiLCJvIjoiMSIsInMiOiIyZTIwM2JkZDc5ZTQ3NDk0MTgzNjNkZjRhOGQ1YWQxZTcyMDY2YmJkZDI5ZmJlNGQxOTY2ZDQ1NWM3OTRhNzljODUwYzU2NDJiODhkOTIyNDVjMGM2YjM5ZGM3NzEzMmJjNWViMTQwMjAyY2NiZTFhZDY5ZjgzODRhNmM2OGNjYSIsInQiOjE2NjkyOTU4MDQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS42Ny4xMTMifQ.Fl9s9gBkSntBRIPfnCFgx1fj0o1c_kceQ96e1y8C86g/bluesky.layout.latte</payload>
+  <tags>gplv3,latte,latte-dock,lattedock,dock,extension,linux,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

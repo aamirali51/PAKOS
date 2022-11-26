@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="210">
+  <name>Latte Window Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1290287</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>72</rating>
+  <downloads>138963</downloads>
+  <installedfile>/home/aamir/.local/share/kwin/scripts/lattewindowcolors</installedfile>
+  <id>1290287</id>
+  <releasedate>2019-03-23</releasedate>
+  <summary>This is a KWin script that sends window colors information to Latte through dbus interface.&lt;br />
+&lt;br />
+&lt;strong>Requires&lt;/strong>&lt;br />
+    Plasma &amp;gt;= 5.15&lt;br />
+    Latte Git version (upcoming v0.9)&lt;br />
+&lt;br />
+&lt;strong>Install&lt;/strong>&lt;br />
+This is a KWin script and as such it can be...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1290287/1229ac1743d789fd6ba04a734dd3e751074c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1290287/1229ac1743d789fd6ba04a734dd3e751074c.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTMzMzIwMzQiLCJvIjoiMSIsInMiOiJkMTlhN2FjMzgzN2M2NGY0MDcyZDY0ZDU5ZjhkYWJkM2QyNzNkMTUyZDk1MmMwNmI3OTRlYTdiNTM2MDNlZjkyYTg5ZjRlYzcxNjAwNTc1NTQyZjhiYzM4OTJiN2U1NzM5NjVkZDUwMTZhOTg0NjY3OTVlM2ZlOGNlODFmNThhZiIsInQiOjE2NjkyOTgxNDIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ.xF6OCEUQtZ7-Jh7VVOBsiHjLLGCaiayHNwnGRwRZJk0/window-colors-0.2.kwinscript</payload>
+  <tags>unix,script,gplv2-later,colors,linux,kwin,latte,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Force Blur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>esjeon</author>
+  <homepage>https://store.kde.org/p/1294604</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>90</rating>
+  <downloads>131995</downloads>
+  <installedfile>/home/aamir/.local/share/kwin/scripts/forceblur</installedfile>
+  <id>1294604</id>
+  <releasedate>2022-02-17</releasedate>
+  <summary>Force-enable blur effect for user-specified windows</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/02/16/1294604/25d2a853b8055b383e5ede66db535b5c9a68.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/02/16/1294604/25d2a853b8055b383e5ede66db535b5c9a68.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDUxMDIyODkiLCJvIjoiMSIsInMiOiI0MjE4MzZjNTg2N2IwYWVkNWMxNzgzMWI1NWEzNDliMzhjMDA5M2E5Zjk4NDBiYmNhZjk1YTk0MmY2MTkwMjIxNDU1MWJkYjc4YjA5MzEzNDhmOTZhNTc2OGNlNDI2N2ZhMzU3ZWU5ODYyMmJmNTA5ZWExZDhlOGY3ZjIyYjJiNSIsInQiOjE2NjkyOTgwMzgsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ.RSxe-5kweTBYMKJjAo-0pUToQOo2yXOA83Od7G6rifg/forceblur-0.6.1.kwinscript</payload>
+  <tags>blur,linux,mit-license,kwin,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>KDE Snap Assist</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>emvaized</author>
+  <homepage>https://store.kde.org/p/1875687</homepage>
+  <licence></licence>
+  <version>1.6.2</version>
+  <rating>70</rating>
+  <downloads>4632</downloads>
+  <installedfile>/home/aamir/.local/share/kwin/scripts/kdesnapassist</installedfile>
+  <id>1875687</id>
+  <releasedate>2022-09-25</releasedate>
+  <summary>This KWin script suggests other window thumbnails on snap. It tries to replicate the famous Windows 10/11 feature of the same name. &lt;br />
+Assist can be shown by dragging a window to the screen edge, as well as via default keyboard shortcuts (&lt;strong>super&lt;/strong> + arrows).&lt;br />
+&lt;br />
+You...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/88/85/1875687/snap-assist-logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/88/85/1875687/snap-assist-logo.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjE4MTQwODEiLCJvIjoiMSIsInMiOiIwMWIwY2Q3OTQzMzU2MmY3NTJmZjk1YTI4MDQzZTUwMTI4NGNhZmRjMzgxOTE1ZjdiNGE5MGQ5OWM4NGY2MDc4N2EyZDViODEzMThmZWNlNDZmM2ZjNDIxNWM2NWFiYmE0NzE0Y2M2OTQ2NzhhNmI5MzkxYzQ1M2RlYWQ3N2RkNCIsInQiOjE2NjkyOTgyMDEsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ.WEcixEIwuyFc8EfutLLkSTCMo6_0dSLvL0bASu7N-To/KDE-Snap-Assist-1.6.zip</payload>
+  <tags>snap,tile,tiling,unix,original-product,linux,gplv3,windows,assist</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Latte Activate Launcher Menu</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1221344</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>40224</downloads>
+  <installedfile>/home/aamir/.local/share/kwin/scripts/activatelattelaunchermenu</installedfile>
+  <id>1221344</id>
+  <releasedate>2018-03-10</releasedate>
+  <summary>A script to activate your launcher menu from a screen edge.&lt;br />
+&lt;br />
+it needs Latte &amp;gt;= v0.7.x</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1221344/9b52a4cf72fa3ca18ef82ff29e2b1af7abb3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1221344/9b52a4cf72fa3ca18ef82ff29e2b1af7abb3.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjA2ODY3NzMiLCJvIjoiMSIsInMiOiIwZjBiYjA1YzVmNzE3NmRhZjNhMjhiOWVjNTRmNDQxMGE0NjliNDkxZjQzNWQ1YjNiYWVmZjdkMmVjMDBkMTNiNWIwYzBmY2NkZWI4YjFkOTE4ZGU3MGJjNTdmNDViNDhlMmMxNDI3ZWIzYTg4YjM3OTFiMTI1NDdhYWU4MjY3ZSIsInQiOjE2NjkyOTgxNTEsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ.9-kbl5QbgbJSRa4eyenJzB0KvsVbyyMtc5adtn5aXwg/kwin_script_activatelattelaunchermenu.kwinscript</payload>
+  <tags>linux,gplv2-later,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

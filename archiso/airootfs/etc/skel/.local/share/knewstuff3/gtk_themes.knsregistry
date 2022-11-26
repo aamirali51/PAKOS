@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Nordic</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1267246</homepage>
+  <licence></licence>
+  <version>1.8.1</version>
+  <rating>94</rating>
+  <downloads>48283</downloads>
+  <installedfile>/home/aamir/.themes/Nordic-bluish-accent-standard-buttons/*</installedfile>
+  <installedfile>/home/aamir/.themes/Nordic-bluish-accent-standard-buttons-v40/*</installedfile>
+  <id>1267246</id>
+  <releasedate>2022-11-21</releasedate>
+  <summary>Nordic is a Gtk3.20+ theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color pallete.&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: red;">¡IMPORTANT!&lt;/span>  all the files include both theme versions(support for gnome v40+ and...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1267246/12a03a74831e9483e0a5a2db51ade447b1d4.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1267246/12a03a74831e9483e0a5a2db51ade447b1d4.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjkwNjg5MDMiLCJvIjoiMSIsInMiOiI3MTMzZjMzNzA3M2NmMjVlMTdkMWM4NDVlN2ZiMzBiODgxY2I3MTE0ZDE4ZTQzN2NkOTJiZmM5MWJmNTBhM2UzZTM2NTNhOTkzNWUzNGQyODEzOTBmZTU0NzBiOTBiZGZkZmIwZTNkYTE1ZTgxMmU4N2I5YmJmNjA3MTc5N2QxZCIsInQiOjE2NjkzMDY0MDQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS44OS4xMDgifQ._V2EuAEzfsKBY_TbWamD_swrbczEPJkeyZbrQaJ-2lE/Nordic-bluish-accent-standard-buttons.tar.xz</payload>
+  <tags>gplv3,gnome,linux,theme,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Nordic darker KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1633673</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1860</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/desktoptheme/Nordic-darker</installedfile>
+  <id>1633673</id>
+  <releasedate>2022-11-19</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic darker...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1633673/screenshot-20221009-1750291.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1633673/screenshot-20221009-1750291.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njg4OTg1ODkiLCJvIjoiMSIsInMiOiJlM2M5YzAwNWZkNDI2M2VhZTg1YmRjOWM3NmM4NDA1MzNhZjRiNWQ1MWZhMmVlN2YzZTMyM2VkNDczYmNmNDQ5MThkMzllYTQwYzY2MTExN2NiZjMzNWY3N2Y2Y2UyYmMyYjI0MGRjOTI0ODQ0Mzk5Y2FiYTkwMjUzNWIzODk5YyIsInQiOjE2NjkyMzg0NDUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.b9ZciXkkhaoTggeunTG9iO7bAg2L-VwT03Oy9QslC1I/Nordic-darker.tar.xz</payload>
+  <tags>kde,linux,cc-by-sa,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic bluish KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1801641</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1841</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/desktoptheme/Nordic-bluish</installedfile>
+  <id>1801641</id>
+  <releasedate>2022-11-17</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic bluish...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1801641/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1801641/preview.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njg3MjczOTAiLCJvIjoiMSIsInMiOiJlNzcxMjNlMjQzODEzYzdlZGVlMDg4NWRkMjI1NWMyY2FhOGU0MGQ5NTczODU5YjdlZjdhZTE3YjJhZGJiOTc3YWI1MzMzMDE5ZjUyZDg1Njk4MGVjMmM4MzIzZTdmNWMwN2Y3ZDdmZGVmNGJlZDRkN2RjZTdlZTBlNGQ3ZDYwMSIsInQiOjE2NjkyMzgxMjIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.jC8bzA6W1B09RFYcc8R7hFn9IkNvK6ev16Lm5ne4T1Y/Nordic-bluish.tar.xz</payload>
+  <tags>cc-by-sa,plasma,unix,theme,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic darker solid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1704303</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>11222</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/desktoptheme/Nordic-darker-solid</installedfile>
+  <id>1704303</id>
+  <releasedate>2022-08-28</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic darker...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1704303/screenshot-20220209-172730.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1704303/screenshot-20220209-172730.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjE2NTU3MzciLCJvIjoiMSIsInMiOiIwYmE1MWUwZGMxMDQ2ZDFhMmJmNTY1YjY4NTMwZDlmYjIxMGI1MTdjNzFmMTY3OTFlZTJlYTU4NjEwNjQ4N2FiMzIyYThjN2E1MDY0NjhlMTM0MzY1N2NjMzU5MmJmZWFlYzljMWEzNGVjNWQ5ODQwZWUwOTMyMDUxNmQ3MzBlNSIsInQiOjE2NjkyMzg0MzUsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.ihzXh9y4cOtr4-1WZstzYjpVZ8wTG441fOHL1mf0N84/nordic-darker-solid.tar.xz</payload>
+  <tags>cc-by-sa,kde,linux,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic round</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1597180</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>32942</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/desktoptheme/Nordic-round</installedfile>
+  <id>1597180</id>
+  <releasedate>2021-09-15</releasedate>
+  <summary>Round Plasma theme based on Nordic.&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1597180/dd06a3642f6c3fd278e9596951c5e8c4d79f293323f847ce5af91599b6e082aa9d29.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1597180/dd06a3642f6c3fd278e9596951c5e8c4d79f293323f847ce5af91599b6e082aa9d29.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzE3Mjk5MjIiLCJvIjoiMSIsInMiOiI1MTk5YTBiODE4ZTIxZTYzNWZmZTI1OTI0NzRlMDYyNTE5ZDU3NTAzZDZlZjdiYTE1ZTlhZDE2ZjQxMWVlYzJiN2IwY2Y5MzBiZDBmYWQ3YzViZGU2NjQxMjA2OWI2NjYzZjRiNmZjNzMxNzQ2YmZhZDY2MzJlNmRhYmFkNGVlYiIsInQiOjE2NjkyMzg0NDIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.nTVKEqiuoxJ0GY8N3yGtHKjVDGR2RjIfgS98LI62Nhw/Nordic-round.tar.gz</payload>
+  <tags>gplv3,linux,kde,nord,nordic,plasma,arch,round,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Zafiro-Nord-Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1930230</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>429</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/desktoptheme/Zafiro-Nord-Dark</installedfile>
+  <id>1930230</id>
+  <releasedate>2022-10-30</releasedate>
+  <summary>plasma theme based in Nordic-darker by </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1930230/screenshot-20221030-134900.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1930230/screenshot-20221030-134900.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjgzNjM5NzMiLCJvIjoiMSIsInMiOiIxNjg1OGVjMWM2YjhhYTYyYWQ4MjdlMDE1N2Q3YmVkYmVjNGI0MWY1OTg4ZWIyNzcxZDQ0YWUzZWE1NTk1MmY3MzE0Y2YxNmNhYTUwY2EzZWU0MjRhNjE4NTQ0NWI2YTA1ZjlhMzljZjU5YjQzMDY2YTQ4Y2E3MDllMzcwYTBmNSIsInQiOjE2NjkyMzg0MTAsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.9KLs4hFa_CQrww2bE8dhqgoSrOdQU6QQlcypbKjttmU/Zafiro-Nord-Dark.tar.xz</payload>
+  <tags>agplv3,unix,plasma,theme,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic bluish solid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1810707</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>9312</downloads>
+  <installedfile>/home/aamir/.local/share/plasma/desktoptheme/Nordic-bluish-solid</installedfile>
+  <id>1810707</id>
+  <releasedate>2022-08-26</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic bluish...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1810707/screenshot-20220529-162652.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1810707/screenshot-20220529-162652.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjE1NDcxMDgiLCJvIjoiMSIsInMiOiJkOWJjMjFiM2Y1ZGY5ZDkwMGM4MGM4YjdkNmVhZmRiMGM5YmFlODYyYzIxMzZiNjY1NDJiMTE2MGY1ZDQxNWYyNDhhNjM3MTc4M2RkMTViMjI4ZWQ0MTI3ZTY3NzA5NWIzMzRkOTNkYWM4NTMxZDUwZWE5Zjc4Nzc4ZjEyZjhhYSIsInQiOjE2NjkyMzg0MDgsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.xfKG-FR-nT5IA4w0m5RlGz_ovbxj_f02WJnZ8NJ9w14/nordic-bluish-solid.tar.xz</payload>
+  <tags>cc-by-sa,linux,kde,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Nordic wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1683121</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>57595</downloads>
+  <installedfile>/home/aamir/.local/share/wallpapers/nordic-wallpaper.jpg</installedfile>
+  <id>1683121</id>
+  <releasedate>2022-01-13</releasedate>
+  <summary>A wallpaper with colors that fits my &lt;a href="https://store.kde.org/p/1327093/" target="_blank" rel="nofollow">Nordic&lt;/a> theme for plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1683121/nordic-wallpaper.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1683121/nordic-wallpaper.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDIxMTM2MDgiLCJvIjoiMSIsInMiOiJiNTM0NDNhMWMwYzljMTcyZWEwMDMyNmM4OTBkMmY1ZjhlN2NkNWI3N2Y4Zjc3ZGUwODcyNjIyZjdkNDUxMDdkZmQ2MWY3YTA3ODZmNTJmNjcwY2QyOWE2MTkxZDY1NDEwMDgwZDMzMjdhMmUxYTM3N2ExYWRmMjQ4NTY4NzM1MiIsInQiOjE2NjkyMzgwNzIsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMTIuMjE0In0.o2gMHpJIXgAc_9OwywxUcfx0unpG-JJWne_ajEiDkOo/nordic-wallpaper.jpg</payload>
+  <tags>kde,original-product,plasma,artwork,cc-by-sa,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Day of ubuntu</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1377741</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>14336</downloads>
+  <installedfile>/home/aamir/.local/share/wallpapers/dawn.jpg</installedfile>
+  <id>1377741</id>
+  <releasedate>2020-04-23</releasedate>
+  <summary>Images for a dynamic wallpaper from ubuntu 6.06 ;)</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1377741/e8f504655cba4d7357617a3812c618f8abd9.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1377741/e8f504655cba4d7357617a3812c618f8abd9.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc2MTY2NTEiLCJvIjoiMSIsInMiOiJmZTZhYTdhMzhjZjA5YjJiOTc2YzVmYWE4YzdlYTc2NjhmMzIwM2RjOGVlY2NhZDY2OTE1YmJhOWYxZmYwMTMwZWIzOTVhN2NiNWQxMWYyMTYyODlmOTc2MDhiN2UzZjc0Mzk3MGE1NzM2YjA5ODk4ZGJjODJhNTdmNTI2MjdlNCIsInQiOjE2NjkzMjczNTAsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS43Mi4yMjMifQ.tI23sYLNjmijxP2L52gyhAEFL9fA5GMo1125CVv1fwM/dawn.jpg</payload>
+  <tags>cc-by,plasma,artwork,kde,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
