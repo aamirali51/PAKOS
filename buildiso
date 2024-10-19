@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# Check if archiso is installed by checking the command instead of using pacman
+if ! command -v mkarchiso > /dev/null; then
+    echo "archiso is not installed. Installing archiso..."
+    sudo pacman -Sy archiso --needed --noconfirm
+fi
+
+# Define directories and chaotic AUR URL for reuse
+WORK_DIR="work"
+OUT_DIR="out"
+CHAOTIC_AUR_URL="https://cdn-mirror.chaotic.cx/chaotic-aur/"
+
+# Remove work and out directories if they exist
+for DIR in "$WORK_DIR" "$OUT_DIR"; do
+  if [ -d "$DIR" ]; then
+    echo "Removing existing $DIR directory..."
+    sudo rm -rf "$DIR"
+  fi
+done
+
+# Check if Chaotic AUR is already added and if Plasma profile is detected
+if grep -wq "plasma" profiledef.sh && ! grep -q "\[chaotic-aur\]" /etc/pacman.conf; then
+    echo "Adding Chaotic AUR to pacman.conf..."
+
+    # Add the key for Chaotic AUR, with error handling
+    sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com || { echo "Failed to receive key"; exit 1; }
+    sudo pacman-key --lsign-key 3056513887B78AEB || { echo "Failed to sign key"; exit 1; }
+
+    # Install Chaotic AUR keyring and mirrorlist
+    sudo pacman -U "${CHAOTIC_AUR_URL}chaotic-keyring.pkg.tar.zst" || { echo "Failed to install chaotic-keyring"; exit 1; }
+    sudo pacman -U "${CHAOTIC_AUR_URL}chaotic-mirrorlist.pkg.tar.zst" || { echo "Failed to install chaotic-mirrorlist"; exit 1; }
+
+    # Add Chaotic AUR to pacman.conf
+    sudo sh -c "echo -e '\n[chaotic-aur]\nInclude = /etc/pacman.d/chaotic-mirrorlist' >> /etc/pacman.conf"
+
+    # Update package database
+    sudo pacman -Syu --noconfirm
+fi
+
+# Build the ISO
+echo "Building ISO..."
+echo "Warning: Do not press Ctrl+C or Ctrl+Z during ISO build."
+sudo mkarchiso -vvv -w ./"$WORK_DIR" -o ./"$OUT_DIR" ./

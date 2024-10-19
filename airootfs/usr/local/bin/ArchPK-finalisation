@@ -1,0 +1,23 @@
+#!/bin/bash
+
+chmod 750 /etc/sudoers.d
+chmod 750 /etc/polkit-1/rules.d
+chgrp polkitd /etc/polkit-1/rules.d
+chmod -v 750 /root
+
+rm -vf /etc/sudoers.d/g_wheel
+rm -vf /etc/sddm.conf.d/autologin.conf
+rm -vf /etc/polkit-1/rules.d/49-nopasswd_global.rules
+rm -vf /root/{.automated_script.sh,.zlogin}
+
+sed -i 's/GRUB_DISTRIBUTOR=.*/GRUB_DISTRIBUTOR="Arch"/' /etc/default/grub
+
+rm /usr/local/bin/{ArchPK-finalisation,livecd-sound,Installation_guide}
+
+# Remove the welcome app binaries
+rm -f /usr/local/bin/welcome.py
+
+# Remove the .desktop files
+rm -f /usr/share/applications/welcome.desktop
+rm -f /etc/xdg/autostart/welcome.desktop
+rm -f /etc/skel/.config/autostart/welcome.desktop
